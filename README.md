@@ -1,16 +1,18 @@
-## Hi there 👋
+## Sejam bem vindos ao meu perfil 💙
 
-<!--
-**lcm051063/lcm051063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Luiz Carlos Martins
 
-Here are some ideas to get you started:
+ - Sou estudante da plataforma [Alura](https://www.alura.com.br)
+ - Estou me desenvolvendo na linguagem javascript, scratch, HTML, etc.
+ - Utilizo esse espaço para organizar e compartilhar projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ## Você pode entrar em contato comigo 📫
+
+   luiz.c.martins@hotmail.com
+
+
+   ![image](https://github.com/user-attachments/assets/9fce2b95-7bce-4e93-ae81-415dbde3346b)
+
+
+
+
